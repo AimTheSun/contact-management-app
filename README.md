@@ -1,3 +1,5 @@
+## IN PROGRESS
+
 # Contact Manager 
 
 A simple **full-stack** contact management system built with **Spring Boot** for the backend and **React** for the frontend. This application allows users to manage their contacts, storing and retrieving contact information from a **MySQL database**, with a user-friendly front-end interface.
