@@ -99,15 +99,3 @@ A simple **full-stack** contact management system built with **Spring Boot** for
 ## Project Status
 
 This project is currently under development and is expected to be finished by early February. New features and improvements are being added regularly, so feel free to check back for updates.
-
-## Contributing
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/your-feature`)
-3. Make your changes
-4. Commit your changes (`git commit -m 'Add new feature'`)
-5. Push to your branch (`git push origin feature/your-feature`)
-6. Create a new Pull Request
-```
-
-You can now copy and paste this content into a `README.md` file for your project!
